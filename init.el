@@ -131,9 +131,37 @@
 (load "setup-clojure.el")
 (load "setup-js.el")
 
+(add-to-list 'load-path "~/.emacs.d/neotree")
+(require 'neotree)
+(global-set-key [f8] 'neotree-toggle)
+
+(add-to-list 'load-path "~/.emacs.d/evil")
+(require 'evil)
+(evil-mode 1)
+
+;; scroll one line at a time (less "jumpy" than defaults)
+    
+(setq mouse-wheel-scroll-amount '(1 ((shift) . 1))) ;; one line at a time
+(setq mouse-wheel-progressive-speed nil) ;; don't accelerate scrolling
+(setq mouse-wheel-follow-mouse 't) ;; scroll window under mouse
+(setq scroll-step 1) ;; keyboard scroll one line at a time
+
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(coffee-tab-width 2))
+
+;; Always show column numbers
+(column-number-mode 1)
+
+;; Highlight JSX
+(require 'jsx-mode)
+(add-to-list 'auto-mode-alist '("\\.jsx\\'" . jsx-mode))
+
+;; Add path to access leiningen
+(add-to-list 'exec-path "/Users/okal/bin")
+
+;; Disable auto-selection of error buffer
+(setq cider-auto-select-error-buffer nil)

@@ -1,0 +1,229 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/okal/workspaces/learning/cljs/live/living/resources/" . "public/")
+ ("/Users/okal/workspaces/learning/cljs/live/living/" . "resources/")
+ ("/Users/okal/workspaces/learning/cljs/live/" . "living/")
+ ("/Users/okal/workspaces/learning/cljs/" . "live/")
+ ("/Users/okal/workspaces/learning/" . "cljs/")
+ ("/Users/okal/workspaces/ona/zebra/resources/public/js/" . "lib/")
+ ("/Users/okal/workspaces/learning/cljs/wiki-search/src/" . "wiki_search/")
+ ("/Users/okal/workspaces/learning/cljs/wiki-search/" . "src/")
+ ("/Users/okal/workspaces/ona/zebra/src/cljx/ona/" . "utils/")
+ ("/Users/okal/workspaces/ona/zebra/src/cljx/" . "ona/")
+ ("/Users/okal/workspaces/ona/zebra/test/clj/ona/viewer/" . "views/")
+ ("/Users/okal/workspaces/ona/zebra/test/clj/ona/" . "viewer/")
+ ("/Users/okal/workspaces/ona/zebra/test/clj/" . "ona/")
+ ("/Users/okal/workspaces/ona/zebra/test/cljs/ona/" . "dataview/")
+ ("/Users/okal/workspaces/ona/zebra/test/cljs/" . "ona/")
+ ("/Users/okal/workspaces/ona/zebra/test/" . "cljs/")
+ ("/Users/okal/workspaces/ona/zebra/src/cljs/ona/" . "utils/")
+ ("/Users/okal/workspaces/ona/zebra/src/cljs/" . "ona/")
+ ("/Users/okal/workspaces/ona/zebra/src/" . "cljx/")
+ ("/Users/okal/workspaces/ona/zebra/src/clj/ona/viewer/" . "helpers/")
+ ("/Users/okal/workspaces/ona/zebra/src/clj/ona/" . "viewer/")
+ ("/Users/okal/workspaces/ona/zebra/resources/public/" . "js/")
+ ("/Users/okal/workspaces/ona/zebra/resources/" . "public/")
+ ("/Users/okal/Applications/Chrome Apps.localized/Default gaedmjdfmmahhbjefcbgaolhhanlaolb.app/" . "Contents/")
+ ("/Users/okal/Applications/Chrome Apps.localized/" . "Default gaedmjdfmmahhbjefcbgaolhhanlaolb.app/")
+ ("/Users/okal/Applications/" . "Chrome Apps.localized/")
+ ("/Users/okal/" . "workspaces/")
+ ("/Users/okal/workspaces/ona/zebra/src/clj/" . "ona/")
+ ("/Users/okal/workspaces/ona/zebra/" . "test/")
+ ("/Users/okal/workspaces/ona/" . "zebra/")
+ ("/Users/okal/workspaces/" . "ona/")
+ ("/Users/okal/.emacs.d/" . "elpa/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/okal/workspaces/learning/cljs/plain/"
+ "/Users/okal/workspaces/ona/milia/tests/clj/milia/api/"
+ "/Users/okal/workspaces/ona/milia/src/milia/api/"
+ "/Users/okal/workspaces/learning/cljs/live/living/src/living/"
+ "/Users/okal/workspaces/learning/cljs/live/living/resources/public/"
+ "/Users/okal/workspaces/learning/cljs/live/living/resources/public/js/"
+ "/Users/okal/.emacs.d/"
+ "/Users/okal/workspaces/ona/zebra/resources/public/js/lib/"
+ "/Users/okal/workspaces/ona/zebra/"
+ "/Users/okal/workspaces/ona/zebra/resources/public/js/externs/"
+ "/Users/okal/workspaces/ona/zebra/test/cljs/ona/dataview/"
+ "/Users/okal/workspaces/ona/zebra/src/cljx/ona/utils/"
+ "/Users/okal/workspaces/ona/zebra/resources/translations/"
+ "/Users/okal/workspaces/ona/zebra/src/clj/ona/viewer/helpers/"
+ "/Users/okal/"
+ "/Users/okal/workspaces/ona/zebra/src/cljs/ona/utils/"
+ "/Users/okal/workspaces/learning/cljs/wiki-search/src/wiki_search/"
+ "/Users/okal/workspaces/learning/cljs/wiki-search/"
+ "/Users/okal/workspaces/ona/zebra/test/cljs/ona/"
+ "/Users/okal/workspaces/ona/zebra/src/clj/ona/viewer/templates/"
+ "/Users/okal/workspaces/ona/zebra/test/clj/ona/viewer/views/"
+ "/Users/okal/workspaces/ona/zebra/test/clj/ona/viewer/helpers/"
+ "/Users/okal/workspaces/ona/zebra/src/clj/templates/"
+ "/Users/okal/workspaces/ona/zebra/src/cljs/ona/"
+ "/Users/okal/workspaces/ona/zebra/src/cljs/ona/api/"
+ "/Users/okal/workspaces/ona/zebra/test/cljs/ona/utils/"
+ "/Users/okal/workspaces/ona/zebra/src/clj/ona/viewer/views/"
+ "/Users/okal/.lein/"
+ "/Users/okal/Applications/Chrome Apps.localized/Default gaedmjdfmmahhbjefcbgaolhhanlaolb.app/Contents/"
+ "/Users/okal/.emacs.d/customizations/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "watch.clj"
+ "widgets_test.clj"
+ "widgets.cljs"
+ "core.cljs"
+ "index.html"
+ "living.js"
+ "init.el"
+ "main.cljs.edn"
+ "build.boot"
+ "d3-scale-externs.js"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/okal/workspaces/learning/cljs/plain/" (22128 60602 0 0) "src/" "out/" "index.html" "cljs.jar" "build.clj" ".git/" "../" "./")
+
+ ("/Users/okal/workspaces/ona/core/onadata/apps/viewer/models/" (22034 26388 0 0) "parsed_instance.pyc" "parsed_instance.py" "instance_modification.pyc" "export.pyc" "export.py" "data_dictionary.pyc" "data_dictionary.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/okal/" (22027 35838 0 0) "workspaces/" "VirtualBox VMs/" "thief.py" "Public/" "Pictures/" "pgadmin.log" "onadata_all.sql" "number.txt" "node_modules/" "Music/" "Movies/" "Library/" "Kitematic/" "Google Drive/" "Downloads/" "Documents/" "Desktop/" "code" "bin/" "Applications/" "account.clj" ".zshrc-e" ".zshrc" ".zsh_history" ".zsh-update" ".zlogin" ".zcompdump-Ona’s MacBook Pro-5.0.5" ".zcompdump-Ona’s MacBook Pro (2)-5.0.5" ".Xauthority" ".virtualenvs/" ".vimrc" ".viminfo" ".vim/" ".vagrant.d/" ".Trash/" ".subversion/" ".ssh/" ".sqlite_history" ".rvm/" ".rnd" ".rediscli_history" ".pythonhist" ".python27_compiled/" ".psql_history" ".profile" ".pgpass" ".pgadmin_histoqueries" ".oh-my-zsh/" ".nvm/" ".npm/" ".node-gyp/" ".multirust/" ".mkshrc" ".meteor/" ".matplotlib/" ".m2/" ".local/" ".lesshst" ".lein/" ".ipython/" ".gnupg/" ".gnome2/" ".gitignore_global" ".gitconfig" ".gervill/" ".gem/" ".flexlmrc" ".erlang.cookie" ".emacs.d/" ".DS_Store" ".docker/" ".config/" ".CFUserTextEncoding" ".cache/" ".boot/" ".bashrc" ".bash_profile" ".bash_history" ".awsthings" ".android/" "../" "./")
+
+ ("/Users/okal/Downloads/" (21935 16103 0 0) "YNAB4_LiveCaptive_4.3.655.dmg" "Yacht Club.cs" "World-of-Warcraft-Setup-enGB.zip" "World-of-Warcraft-Setup-enGB.app/" "wikipedia-logo.png" "WDI_csv.zip" "WDI_csv/" "ward.png" "ward (1).png" "vim.zip" "Viber.dmg" "vagrant_1.7.2.dmg" "v1.0.0.zip" "uTorrent.dmg" "undefined.png" "undefined (3).png" "undefined (2).png" "undefined (1).png" "UK_aid_branding_guidance_June_2014.pdf" "tutorial.zip" "tutorial.xls" "tutorial (2).xls" "tutorial (1).xls" "Tuesday_24th_February_2015.pdf" "TorBrowser-4.5-alpha-2-osx64_en-US.dmg" "TorBrowser-4.0.3-osx32_en-US.dmg" "tonespace-2.5.544-macosx.dmg" "TogglDesktop-7_1_201-2015-02-10-22-56-10.dmg" "THE HELB PORTAL.pdf" "test.png" "test (2).png" "test (1).png" "telesur-video-2015-03-12-205102704151.mp4" "tabula-mac-0.9.7.zip" "tabula-mac-0.9.7-large-experimental.zip" "tabula/" "T-BILL_MARKET_up_to_May_22__2015.pdf" "swearWords.csv" "submission3.png" "submission3 (2).png" "submission3 (1).png" "submission2.png" "submission.png" "submission (9).png" "submission (8).png" "submission (7).png" "submission (6).png" "submission (5).png" "submission (4).png" "submission (3).png" "submission (2).png" "submission (10).png" "submission (1).png" "Studio_House_ISP_Survey.xlsx" "Studio House ISP Survey.xlsx" "Studio House ISP Survey (1).xlsx" "STEPS_Instrument_V3_1.xlsx" "Spectacle.app/" "Spectacle+0.8.8.zip" "sonicuniverse.pls" "Skype_7.2.412.dmg" "sketch.zip" "shi_hopelesss.mp3" "settings (3)" "settings (2)" "settings (1)" "settings" "Security_Presence.png" "Security_Presence (1).png" "Screen Shot 2015-03-13 at 4.27.38 PM.png" "Schooling Status by County and District.pdf" "scale.zip" "scale/" "sample.png" "RiverFlowsInYou.pdf" "requirejs-bower-2.1.16.tar.gz" "Reported.png" "Reported (3).png" "Reported (2).png" "Reported (1).png" "recdisc_32bit.zip" "recdisc.exe" "reactd3js-preview.pdf" "reactd3js-preview (1).pdf" "Quarantined_Houses.png" "Quarantined_Houses(1).png" "Quarantined_Houses (9).png" "Quarantined_Houses (8).png" "Quarantined_Houses (7).png" "Quarantined_Houses (6).png" "Quarantined_Houses (5).png" "Quarantined_Houses (4).png" "Quarantined_Houses (3).png" "Quarantined_Houses (2).png" "Quarantined_Houses (11).png" "Quarantined_Houses (10).png" "Quarantined_Houses (1).png" "pushbullet-cli-master.zip" "pullinghair.gif" "Public-Redacted-Version-of-“Second-updated-Prosecution-pre-trial-brief”-26-August-2013-ICC-0109-0211-796-Conf-AnxA.pdf" "PROSPECTUS_FOR_10_YEAR_GOVT_BOND_-_MAY_27_2015.pdf" "pragpub-2013-07.pdf" "pragpub-2013-06.pdf" "Postico.app/" "postico-0.23.zip" "postico-0.17.zip" "Postico 2.app/" "Postgres-9.4.1.0.zip" "PopcornTime-latest.dmg" "Popcorn-Time-0.3.8-0-Mac.dmg" "Popcorn-Time-0.3.7.2-Mac.dmg" "png.png" "png (3).png" "png (2).png" "png (1).png" "pk.(2014).eng.1cd.(5993577).zip" "pk.(2014).eng.1cd.(5993577)/" "Pixelmator.zip" "Pixelmator.app/" "PETITIONS_TRACKER_2015.pdf" "PASGR_MRPP websites ToRs_Feb 27.pdf" "PapersPlease-0.5.13-Mac.dmg" "outreach_worker.xlsx" "osmos-mac-1.7.1-1345496957.dmg" "osm_example_2015_04_22.osm" "osm_example.xls" "osm_example.osm" "osm_example.csv" "osm_example (1).xls" "Opera Installer.app/" "ODK Briefcase v1.4.5 Production.jar" "NonQuarantined_Houses.png" "NonQuarantined_Houses (3).png" "NonQuarantined_Houses (2).png" "NonQuarantined_Houses (1).png" "moves_export.zip" "moves_export/" "media (2)" "Marital Status by County and District.pdf" "main.js.map" "Machinarium_full_en.dmg" "living-alone-death-sex-money.mp3" "LIMBO_installer.dmg" "Lilting (2014) [1080p]/" "LightTableMac.zip" "LightTable 2/" "LightTable/" "Last 7 Days Economic Activity by County and District.pdf" "Krita-2.8.79.10.dmg" "kra FORM_OKAL2.pdf" "kobocat.htm" "KNBS_Data_Access_and_Data_Dissemination_Policy.pdf" "KNBS_Data_Access_and_Data_Dissemination_Policy (1).pdf" "Kitematic-0.5.10.zip" "kenya_report_test.xls" "kenya-who-owns-the-land.pdf" "kenya-power-of-mlearning.pdf" "jdk-8u25-macosx-x64.dmg" "JavaForOSX2014-001.dmg" "iTerm2_v2_0.zip" "iTerm.app/" "installgoogledrive.dmg" "Household Source of Lighting Fuel by County and District.pdf" "Household Source of Cooking Fuel by County and District.pdf" "HoRNDIS-rel6.pkg" "home4.xls" "home3.xlsx" "home3.xls" "home3.numbers" "home2.xls" "home2.csvzip" "home2.csv" "Holding.Trevor.2007.PROPER.LiMiTED.DVDRip.XviD-HAGGiS.avi" "HipChat-3.1.6-151.zip" "Handbook of Food Preservation.PDF" "Gyazo_2.1.dmg" "grant_stinnett.zip" "googlechrome.dmg" "github_size_vs_time_taken_2015_04_17_03_51_58.csv" "github_size_vs_time_taken_1.xlsx" "github_size_vs_time_taken.xlsx" "github_size_vs_time_taken (1).xlsx" "Github Issue Size vs. Time.xlsx" "GitHub for Mac 196.zip" "GitHub for Mac 194.zip" "Gifrocket.app/" "Gifrocket.0.1.2.zip" "FwEZp58Z.jpeg" "Firefox 38.0.5.dmg" "Firefox 38.0.1.dmg" "Exploring Kenya Inequality National Report.pdf" "ember-components-master.zip" "Emacs-24.4-universal.dmg" "download (2)" "download (1)" "download" "DOCUMENTATION by PJ.pptx" "Disconnect+Desktop.pkg" "Dfid dash_datapartners.jpeg" "Dfid dash_datapartners-1.jpeg" "derc_daily_report_v4_2-2_2015_04_17_06_11_08.xlsx" "derc_daily_report_v4_2-2_2015_04_17_06_11_08 (2).xlsx" "derc_daily_report_v4_2-2_2015_04_17_06_11_08 (1).xlsx" "derc_daily_report_v4_2-2.xls" "data1-data2_axisJS.png" "d3-scale-master.zip" "d3-scale-master/" "csv-import" "Crystal Ventures IPO Prospectus (Rwanda).zip" "Crystal Ventures IPO Prospectus (Rwanda)/" "computer-smash.gif" "Commune.2005.DVDRip.XviD/" "clojure.core-api.html" "Cinch.zip" "chart.pdf" "chart (1).pdf" "Caren.jpg" "c3-0.4.11-rc1.zip" "braid-mac-build2.dmg" "Bootstrap_WIP.clj" "axis.pdf" "audio-2015-03-12-361303.mp3" "androidfiletransfer.dmg" "android-studio-ide-141.2071668-mac.zip" "Android Studio.app/" "Amini.mp3" "Amini (1).mp3" "Affinity+Designer+Trial.dmg" "Activity-GROUPS-refine-NRC-FEB12.xls.xlsx" "Activity-GROUPS-refine-NRC-FEB12.xls - BA Activity codes refine NRC FE.csv" "Access to Mobile Phone Service by County and District.pdf" "About Time (2013) [1080p]/" "_submission_time.png" "_submission_time(2).png" "_submission_time(1).png" "_submission_time (9).png" "_submission_time (8).png" "_submission_time (7).png" "_submission_time (6).png" "_submission_time (5).png" "_submission_time (4).png" "_submission_time (3).png" "_submission_time (23).png" "_submission_time (22).png" "_submission_time (21).png" "_submission_time (20).png" "_submission_time (2).png" "_submission_time (19).png" "_submission_time (18).png" "_submission_time (17).png" "_submission_time (16).png" "_submission_time (15).png" "_submission_time (14).png" "_submission_time (13).png" "_submission_time (12).png" "_submission_time (11).png" "_submission_time (10).png" "_submission_time (1).png" "_llamacharts.png" "[www.Cpasbien.me] About.Time.2013.TRUEFRENCH.DVDRIP.XviD-ArRoWs.avi" "20150710_081434.jpg" "20140112-Homezebra-dataview.psd" "20 Feb 2015 23-48-24.amr" "10961686_10152697016953581_2033216456_n.jpg" "02bfe50c8c44973088000000.pdf" ".localized" ".DS_Store" "#MaskaniConversations  Who Looted Kenya's Ivory  (with image, tweets) · Maskani254 · Storify_files/" "#MaskaniConversations  Who Looted Kenya's Ivory  (with image, tweets) · Maskani254 · Storify.html" "../" "./")
+
+ ("/Users/okal/workspaces/ona/milia/tests/clj/milia/api/" (21926 25089 0 0) "user_test.clj" "project_test.clj" "organization_test.clj" "j2x_test.clj" "io_test.clj" "images_test.clj" "dataview_test.clj" "dataset_test.clj" "charts_test.clj" "../" "./")
+
+ ("/Users/okal/workspaces/ona/milia/src/milia/api/" (21926 25089 0 0) "user.clj" "project.cljc" "organization.clj" "j2x.clj" "io.cljs" "io.clj" "images.clj" "http.cljc" "dataview.cljc" "dataset.cljc" "charts.clj" "async_export.cljs" "../" "./")
+
+ ("/Users/okal/workspaces/learning/cljs/live/living/src/living/" (21919 50587 0 0) "core.clj" "../" "./")
+
+ ("/Users/okal/workspaces/learning/cljs/live/living/resources/public/" (21919 50942 0 0) "js/" "../" "./")
+
+ ("/Users/okal/workspaces/learning/cljs/live/living/resources/" (21919 50942 0 0) "public/" "../" "./")
+
+ ("/Users/okal/workspaces/learning/cljs/live/living/" (21919 50725 0 0) "test/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" ".project.clj.swp" ".hgignore" ".gitignore" "../" "./")
+
+ ("/Users/okal/workspaces/learning/cljs/live/" (21919 50587 0 0) "living/" "flappy-bird-demo/" "../" "./")
+
+ ("/Users/okal/workspaces/learning/cljs/" (21919 49785 0 0) "wiki-search/" "om-tut/" "om-higher-order-components/" "live/" "../" "./")
+
+ ("/Users/okal/workspaces/learning/" (21861 56253 0 0) "viz/" "testing/" "teaching/" "rainforest-challenge/" "music/" "js/" "fp/" "clojure/" "cljs/" "../" "./")
+
+ ("/Users/okal/.emacs.d/elpa/" (21896 2535 0 0) "undo-tree-20140509.522/" "tagedit-20140618.521/" "smooth-scroll-20130321.2114/" "smex-20140425.1314/" "s-20140714.707/" "rainbow-delimiters-20140713.1131/" "queue-0.1.1/" "projectile-20140716.416/" "pkg-info-20140610.630/" "paredit-20140128.1248/" "magit-20140720.358/" "jsx-mode-20130908.1024/" "ido-ubiquitous-20140526.1306/" "goto-chg-20131228.1459/" "git-rebase-mode-20140605.520/" "git-commit-mode-20140605.520/" "exec-path-from-shell-1.6/" "epl-20140620.218/" "elscreen-20140421.414/" "dash-20140717.547/" "clojure-mode-extra-font-locking-20140613.839/" "clojure-mode-20141120.1410/" "clevercss-20131228.1755/" "cl-lib-0.5/" "cider-readme.txt" "cider-20141120.1746/" "babel-20131231.725/" "archives/" "../" "./")
+
+ ("/Users/okal/.emacs.d/" (21914 32158 0 0) "themes/" "README.md" "projectile-bookmarks.eld" "places" "neotree/" "init.el" "ido.last" "evil/" "elpa/" "customizations/" "cider-history" "backups/" "auto-save-list/" ".smex-items" ".recentf" ".gitignore" ".git/" ".emacs.desktop" "../" "./")
+
+ ("/Users/okal/workspaces/" (21909 7574 0 0) "writing/" "todo/" "research/" "reagent/" "ona/" "learning/" "foss/" "curriculum/" ".DS_Store" "../" "./")
+
+ ("/Users/okal/workspaces/ona/" (21895 48993 0 0) "zebra/" "writing/" "ona-tech/" "ona-metrics/" "milia/" "hatti/" "hacks/" "enketo-express/" "dfid-dashboard/" "core/" ".DS_Store" ".archive/" "../" "./")
+
+ ("/Users/okal/workspaces/ona/hatti/" (21914 12519 0 0) "target/" "src/" "README.md" "project.clj" "pom.xml" "LICENSE" "includes/" "CHANGELOG.md" "build.boot" "boot.properties" ".travis.yml" ".README.md.swp" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/okal/workspaces/ona/hatti/src/" (21914 12519 0 0) "hatti/" "../" "./")
+
+ ("/Users/okal/workspaces/ona/hatti/src/hatti/" (21914 12519 0 0) "views.cljs" "views/" "utils.cljs" "shared.cljs" "routing.cljs" "ona/" "maths.cljs" "map/" "charting.cljc" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/resources/public/js/lib/" (21906 41507 0 0) "out-prod/" "out/" "main.js.map" "main.js" "main.cljs.edn" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/" (21910 19482 0 0) "test/" "tasks/" "target/" "src/" "resources/" "README.md" "project.clj" "phantom/" "out/" "LICENSE" "karma.conf.js" "Dockerfile" "doc/" "difference.swp" "checkouts/" "build.boot" "browser_repl.clj" "boot.properties" ".travis.yml" ".repl-0.0-3308/" ".project.clj.swp" ".nrepl-port" ".nrepl-history" ".lein-repl-history" ".lein-failures" ".lein-env" ".gitignore" ".git/" ".drone.yml" ".difference.swp.swp" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/src/cljs/" (21906 21813 0 0) "ona/" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/src/cljs/ona/" (21907 38056 0 0) "utils/" "upload.cljs" "routing.cljs" "projectview/" "project_sharing_view.cljs" "project_list_view.cljs" "project.cljs" "organizations.cljs" "members_view.cljs" "libs/" "home.cljs" "dataview/" "base.cljs" "account.cljs" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/src/cljs/ona/dataview/" (21910 17590 0 0) "single_submission.cljs" "shared.cljs" "settings.cljs" "charts.cljs" "base.cljs.orig" "base.cljs" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/resources/public/js/externs/" (21906 41507 0 0) "slickgrid-externs.js" "moment-externs.js" "leaflet-externs.js" "jquery-externs.js" "intro-externs.js" "dropbox-externs.js" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/resources/public/js/" (21752 1180 0 0) "vendor/" "lib/" "externs/" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/resources/public/" (21751 63267 0 0) "js/" "img/" "fonts/" "css/" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/resources/" (21775 63154 0 0) "translations/" "public/" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/test/cljs/ona/dataview/" (21853 34588 0 0) "dommy_helpers.cljs" "details_test.cljs" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/test/cljs/ona/" (21863 4875 0 0) "utils/" "upload_test.cljs" "projectview/" "project_test.cljs" "project_sharing_view_test.cljs" "project_list_view_test.cljs" "organizations_test.cljs" "member_view_test.cljs" "libs/" "home_test.cljs" "helpers.cljs" "dataview/" "account_test.cljs" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/test/cljs/" (21863 4875 0 0) "test_runner.cljs" "ona/" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/src/cljx/ona/utils/" (21799 36051 0 0) "url.cljx" "string.cljx" "shared_dom.cljx" "seq.cljx" "remote.cljx" "permissions.cljx" "numeric.cljx" "forms.cljx" "collections.cljx" "charts.cljx" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/src/cljx/ona/" (21808 51597 0 0) "utils/" "helpers/" "api/" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/resources/translations/" (21767 61074 0 0) "sw.clj" "en.clj" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/src/clj/ona/viewer/helpers/" (21769 34645 0 0) "walkthrough.clj" "tags.clj" "sharing.clj" "ring.clj
+" "ring.clj" "projects.clj" "organizations.clj" "i18n.clj" "email.clj" "collections.clj" "accounts.clj" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/src/clj/ona/utils/" (21724 35803 0 0) "time.clj" "http.clj" "file.clj" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/src/" (21760 188 0 0) "shared/" "cljx/" "cljs/" "clj/" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/src/clj/ona/viewer/" (21766 54571 0 0) "wrappers.clj" "views/" "urls.clj" "templates/" "settings.clj" "routes.clj" "helpers/" "../" "./")
+
+ ("/Users/" (21691 48592 0 0) "Shared/" "onasystems/" "ona/" "okal/" ".localized" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/src/cljs/ona/utils/" (21753 29733 0 0) "walkthrough.cljs" "share_modal.cljs" "om_data_utils.cljs" "math.cljs" "macros.clj" "interop.cljs" "dom.cljs" "common_om_components.cljs" "analytics.cljs" "../" "./")
+
+ ("/Users/okal/workspaces/learning/cljs/wiki-search/src/wiki_search/" (21716 35190 0 0) "core.cljs" "../" "./")
+
+ ("/Users/okal/workspaces/learning/cljs/wiki-search/src/" (21716 35190 0 0) "wiki_search/" "../" "./")
+
+ ("/Users/okal/workspaces/learning/cljs/wiki-search/" (21716 36134 0 0) "target/" "src/" "scripts/" "README.md" "project.clj" "out-adv/" "out/" "node_modules/" "index_release.html" "index.html" ".gitignore" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/test/cljs/ona/api/" (21701 59163 0 0) "project_test.cljs" "io_test.cljs" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/src/clj/ona/viewer/views/" (21714 8363 0 0) "projects.clj" "profiles.clj" "organizations.clj" "home.clj" "errors.clj" "datasets.clj" "accounts.clj" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/test/clj/ona/viewer/views/" (21714 8092 0 0) "projects_test.clj" "profiles_test.clj" "organizations_test.clj" "home_test.clj" "errors_test.clj" "datasets_test.clj" "accounts_test.clj" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/test/clj/ona/viewer/" (21714 8092 0 0) "wrappers_test.clj" "views/" "routes_test.clj" "helpers/" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/src/clj/ona/viewer/templates/" (21714 10073 0 0) "shared.clj" "projects.clj" "profiles.clj" "organizations.clj" "modals.clj" "list_items.clj" "home.clj" "datasets.clj" "base.clj" "accounts.clj" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/src/cljx/" (21683 27250 0 0) "ona/" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/test/clj/ona/viewer/helpers/" (21701 59163 0 0) "projects_test.clj" "organizations_test.clj" "email_test.clj" "collections_test.clj" "avatars_test.clj" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/test/clj/ona/" (21683 27250 0 0) "viewer/" "utils/" "style_test.clj" "helpers.clj" "fixtures/" "api/" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/test/clj/" (21683 27250 0 0) "ona/" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/src/clj/templates/" (21707 37506 0 0) "whats-new.html" "team/" "shared/" "project/" "profile/" "pricing.html" "organization/" "loading-modal.html" "list-items.html" "learn.html" "landing.html" "home.html" "dataset/" "account/" "about.html" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/src/cljs/ona/api/" (21707 27263 0 0) "project.cljs" "profile.cljs" "io.cljs" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/src/clj/ona/api/" (21704 58299 0 0) "user.clj" "project.clj" "organization.clj" "j2x.clj" "io.clj" "dataset.clj" "charts.clj" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/src/clj/ona/" (21706 7615 0 0) "viewer/" "utils/" "api/" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/test/cljs/ona/utils/" (21707 13451 0 0) "walkthrough_test.cljs" "interop_test.cljs" "dom_test.cljs" "common_om_components_test.cljs" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/test/" (21683 27250 0 0) "cljx/" "cljs/" "clj/" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/src/clj/templates/project/" (21701 59163 0 0) "submission-settings.html" "show.html" "share.html" "settings.html" "new.html" "edit-form-name.html" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/resources/public/extra/" (21705 56560 0 0) "trmix.min.js" "slickgrid-externs.js" "polyfill.js" "moment-externs.js" "leaflet.js" "leaflet-google.js" "leaflet-externs.js" "intro-1.0.0.min.js" "google_maps.3.2.js" "ganalytics.js" "../" "./")
+
+ ("/Users/okal/.lein/" (21704 49287 0 0) "self-installs/" "repl-port" "repl-history" "profiles.clj" "../" "./")
+
+ ("/Users/okal/Applications/Chrome Apps.localized/Default gaedmjdfmmahhbjefcbgaolhhanlaolb.app/Contents/" (21679 56271 0 0) "Resources/" "PkgInfo" "MacOS/" "Info.plist" "../" "./")
+
+ ("/Users/okal/Applications/Chrome Apps.localized/Default gaedmjdfmmahhbjefcbgaolhhanlaolb.app/" (21679 56271 0 0) "Contents/" "../" "./")
+
+ ("/Users/okal/Applications/Chrome Apps.localized/" (21693 3441 0 0) "Icon
+" "Default pfmjnmeipppmcebplngmhfkleiinphhp.app/" "Default ohmmkhmmmpcnpikjeljgnaoabkaalbgc.app/" "Default gaedmjdfmmahhbjefcbgaolhhanlaolb.app/" ".localized/" "../" "./")
+
+ ("/Users/okal/Applications/" (21679 56266 0 0) "Chrome Apps.localized/" ".localized" "../" "./")
+
+ ("/Users/okal/workspaces/ona/zebra/src/clj/" (21683 27250 0 0) "templates/" "ona/" "../" "./")
+
+ ("/Users/okal/.emacs.d/customizations/" (21685 26072 0 0) "ui.el" "themes.el" "shell-integration.el" "setup-js.el" "setup-clojure.el" "navigation.el" "misc.el" "elisp-editing.el" "editing.el" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
