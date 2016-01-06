@@ -4239,7 +4239,7 @@
 	 ((lui
 	   (1 6))
 	  (lcs
-	   (1 1)))
+	   (1 5)))
 	 "Client for IRC in Emacs" tar])
  (cider .
 	[(0 8 2)
