@@ -165,3 +165,4 @@
 
 ;; Disable auto-selection of error buffer
 (setq cider-auto-select-error-buffer nil)
+(setq cider-show-error-buffer nil)
